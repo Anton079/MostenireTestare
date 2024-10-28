@@ -14,8 +14,6 @@ namespace MostenireTestare.InterfeteExemplu
         void Translate(int p1T, int p2T);
 
         IFigura Duplicare();
-
-
-
+        
     }
 }

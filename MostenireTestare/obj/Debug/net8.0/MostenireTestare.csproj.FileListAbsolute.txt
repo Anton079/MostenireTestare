@@ -17,3 +17,23 @@ C:\mycode\oop\mostenire\MostenireTestare\MostenireTestare\obj\Debug\net8.0\refin
 C:\mycode\oop\mostenire\MostenireTestare\MostenireTestare\obj\Debug\net8.0\MostenireTestare.pdb
 C:\mycode\oop\mostenire\MostenireTestare\MostenireTestare\obj\Debug\net8.0\MostenireTestare.genruntimeconfig.cache
 C:\mycode\oop\mostenire\MostenireTestare\MostenireTestare\obj\Debug\net8.0\ref\MostenireTestare.dll
+C:\mycode\oop\mostenire\MostenireTestare 2.0\MostenireTestare\obj\Debug\net8.0\MostenireTestare.csproj.AssemblyReference.cache
+C:\mycode\oop\mostenire\MostenireTestare 2.0\MostenireTestare\obj\Debug\net8.0\MostenireTestare.GeneratedMSBuildEditorConfig.editorconfig
+C:\mycode\oop\mostenire\MostenireTestare 2.0\MostenireTestare\obj\Debug\net8.0\MostenireTestare.AssemblyInfoInputs.cache
+C:\mycode\oop\mostenire\MostenireTestare 2.0\MostenireTestare\obj\Debug\net8.0\MostenireTestare.AssemblyInfo.cs
+C:\mycode\oop\mostenire\MostenireTestare 2.0\MostenireTestare\obj\Debug\net8.0\MostenireTestare.csproj.CoreCompileInputs.cache
+C:\mycode\oop\mostenire\MostenireTestare 2.0\MostenireTestare\obj\Debug\net8.0\MostenireTestare.sourcelink.json
+C:\mycode\oop\mostenire\MostenireTestare 2.0\MostenireTestare\obj\Debug\net8.0\MostenireTestare.dll
+C:\mycode\oop\mostenire\MostenireTestare 2.0\MostenireTestare\obj\Debug\net8.0\refint\MostenireTestare.dll
+C:\mycode\oop\mostenire\MostenireTestare 2.0\MostenireTestare\obj\Debug\net8.0\MostenireTestare.pdb
+C:\mycode\oop\mostenire\MostenireTestare 2.0\MostenireTestare\bin\Debug\net8.0\MostenireTestare.exe
+C:\mycode\oop\mostenire\MostenireTestare 2.0\MostenireTestare\bin\Debug\net8.0\MostenireTestare.deps.json
+C:\mycode\oop\mostenire\MostenireTestare 2.0\MostenireTestare\bin\Debug\net8.0\MostenireTestare.runtimeconfig.json
+C:\mycode\oop\mostenire\MostenireTestare 2.0\MostenireTestare\bin\Debug\net8.0\MostenireTestare.dll
+C:\mycode\oop\mostenire\MostenireTestare 2.0\MostenireTestare\bin\Debug\net8.0\MostenireTestare.pdb
+C:\mycode\oop\mostenire\MostenireTestare 2.0\MostenireTestare\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+C:\mycode\oop\mostenire\MostenireTestare 2.0\MostenireTestare\bin\Debug\net8.0\DocumentFormat.OpenXml.Framework.dll
+C:\mycode\oop\mostenire\MostenireTestare 2.0\MostenireTestare\bin\Debug\net8.0\System.IO.Packaging.dll
+C:\mycode\oop\mostenire\MostenireTestare 2.0\MostenireTestare\obj\Debug\net8.0\Mostenir.673B1D7C.Up2Date
+C:\mycode\oop\mostenire\MostenireTestare 2.0\MostenireTestare\obj\Debug\net8.0\MostenireTestare.genruntimeconfig.cache
+C:\mycode\oop\mostenire\MostenireTestare 2.0\MostenireTestare\obj\Debug\net8.0\ref\MostenireTestare.dll

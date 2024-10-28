@@ -1,34 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\mycode\\oop\\mostenire\\MostenireTestare\\",
+  "WorkspaceRootPath": "C:\\mycode\\oop\\mostenire\\MostenireTestare 2.0\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8D04F482-CF25-4CD2-A180-5864AF3578BB}|MostenireTestare\\MostenireTestare.csproj|c:\\mycode\\oop\\mostenire\\mosteniretestare\\mosteniretestare\\interfeteexemplu\\punct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D04F482-CF25-4CD2-A180-5864AF3578BB}|MostenireTestare\\MostenireTestare.csproj|solutionrelative:mosteniretestare\\interfeteexemplu\\punct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D04F482-CF25-4CD2-A180-5864AF3578BB}|MostenireTestare\\MostenireTestare.csproj|c:\\mycode\\oop\\mostenire\\mosteniretestare\\mosteniretestare\\interfeteexemplu\\dreptunghi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D04F482-CF25-4CD2-A180-5864AF3578BB}|MostenireTestare\\MostenireTestare.csproj|solutionrelative:mosteniretestare\\interfeteexemplu\\dreptunghi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D04F482-CF25-4CD2-A180-5864AF3578BB}|MostenireTestare\\MostenireTestare.csproj|c:\\mycode\\oop\\mostenire\\mosteniretestare\\mosteniretestare\\interfeteexemplu\\cerc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D04F482-CF25-4CD2-A180-5864AF3578BB}|MostenireTestare\\MostenireTestare.csproj|solutionrelative:mosteniretestare\\interfeteexemplu\\cerc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D04F482-CF25-4CD2-A180-5864AF3578BB}|MostenireTestare\\MostenireTestare.csproj|c:\\mycode\\oop\\mostenire\\mosteniretestare\\mosteniretestare\\interfeteexemplu\\linie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D04F482-CF25-4CD2-A180-5864AF3578BB}|MostenireTestare\\MostenireTestare.csproj|solutionrelative:mosteniretestare\\interfeteexemplu\\linie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D04F482-CF25-4CD2-A180-5864AF3578BB}|MostenireTestare\\MostenireTestare.csproj|c:\\mycode\\oop\\mostenire\\mosteniretestare\\mosteniretestare\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8D04F482-CF25-4CD2-A180-5864AF3578BB}|MostenireTestare\\MostenireTestare.csproj|c:\\mycode\\oop\\mostenire\\mosteniretestare 2.0\\mosteniretestare\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D04F482-CF25-4CD2-A180-5864AF3578BB}|MostenireTestare\\MostenireTestare.csproj|solutionrelative:mosteniretestare\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D04F482-CF25-4CD2-A180-5864AF3578BB}|MostenireTestare\\MostenireTestare.csproj|c:\\mycode\\oop\\mostenire\\mosteniretestare\\mosteniretestare\\abstarctizareexemplu\\serviceperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D04F482-CF25-4CD2-A180-5864AF3578BB}|MostenireTestare\\MostenireTestare.csproj|solutionrelative:mosteniretestare\\abstarctizareexemplu\\serviceperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D04F482-CF25-4CD2-A180-5864AF3578BB}|MostenireTestare\\MostenireTestare.csproj|c:\\mycode\\oop\\mostenire\\mosteniretestare 2.0\\mosteniretestare\\interfeteexemplu\\desen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D04F482-CF25-4CD2-A180-5864AF3578BB}|MostenireTestare\\MostenireTestare.csproj|solutionrelative:mosteniretestare\\interfeteexemplu\\desen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D04F482-CF25-4CD2-A180-5864AF3578BB}|MostenireTestare\\MostenireTestare.csproj|c:\\mycode\\oop\\mostenire\\mosteniretestare\\mosteniretestare\\interfeteexemplu\\ifigura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8D04F482-CF25-4CD2-A180-5864AF3578BB}|MostenireTestare\\MostenireTestare.csproj|c:\\mycode\\oop\\mostenire\\mosteniretestare 2.0\\mosteniretestare\\interfeteexemplu\\ifigura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D04F482-CF25-4CD2-A180-5864AF3578BB}|MostenireTestare\\MostenireTestare.csproj|solutionrelative:mosteniretestare\\interfeteexemplu\\ifigura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D04F482-CF25-4CD2-A180-5864AF3578BB}|MostenireTestare\\MostenireTestare.csproj|c:\\mycode\\oop\\mostenire\\mosteniretestare 2.0\\mosteniretestare\\interfeteexemplu\\eticheta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D04F482-CF25-4CD2-A180-5864AF3578BB}|MostenireTestare\\MostenireTestare.csproj|solutionrelative:mosteniretestare\\interfeteexemplu\\eticheta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D04F482-CF25-4CD2-A180-5864AF3578BB}|MostenireTestare\\MostenireTestare.csproj|c:\\mycode\\oop\\mostenire\\mosteniretestare 2.0\\mosteniretestare\\interfeteexemplu\\dreptunghi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D04F482-CF25-4CD2-A180-5864AF3578BB}|MostenireTestare\\MostenireTestare.csproj|solutionrelative:mosteniretestare\\interfeteexemplu\\dreptunghi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D04F482-CF25-4CD2-A180-5864AF3578BB}|MostenireTestare\\MostenireTestare.csproj|c:\\mycode\\oop\\mostenire\\mosteniretestare 2.0\\mosteniretestare\\interfeteexemplu\\cerc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D04F482-CF25-4CD2-A180-5864AF3578BB}|MostenireTestare\\MostenireTestare.csproj|solutionrelative:mosteniretestare\\interfeteexemplu\\cerc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D04F482-CF25-4CD2-A180-5864AF3578BB}|MostenireTestare\\MostenireTestare.csproj|c:\\mycode\\oop\\mostenire\\mosteniretestare 2.0\\mosteniretestare\\interfeteexemplu\\linie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D04F482-CF25-4CD2-A180-5864AF3578BB}|MostenireTestare\\MostenireTestare.csproj|solutionrelative:mosteniretestare\\interfeteexemplu\\linie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D04F482-CF25-4CD2-A180-5864AF3578BB}|MostenireTestare\\MostenireTestare.csproj|c:\\mycode\\oop\\mostenire\\mosteniretestare 2.0\\mosteniretestare\\interfeteexemplu\\punct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D04F482-CF25-4CD2-A180-5864AF3578BB}|MostenireTestare\\MostenireTestare.csproj|solutionrelative:mosteniretestare\\interfeteexemplu\\punct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,91 +42,110 @@
       "DocumentGroups": [
         {
           "DockedWidth": 235,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\mycode\\oop\\mostenire\\MostenireTestare\\MostenireTestare\\Program.cs",
-              "RelativeDocumentMoniker": "MostenireTestare\\Program.cs",
-              "ToolTip": "C:\\mycode\\oop\\mostenire\\MostenireTestare\\MostenireTestare\\Program.cs",
-              "RelativeToolTip": "MostenireTestare\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAIA9wA0AAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T17:38:21.53Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ServicePerson.cs",
-              "DocumentMoniker": "C:\\mycode\\oop\\mostenire\\MostenireTestare\\MostenireTestare\\AbstarctizareExemplu\\ServicePerson.cs",
-              "RelativeDocumentMoniker": "MostenireTestare\\AbstarctizareExemplu\\ServicePerson.cs",
-              "ToolTip": "C:\\mycode\\oop\\mostenire\\MostenireTestare\\MostenireTestare\\AbstarctizareExemplu\\ServicePerson.cs",
-              "RelativeToolTip": "MostenireTestare\\AbstarctizareExemplu\\ServicePerson.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T17:38:21.014Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IFigura.cs",
-              "DocumentMoniker": "C:\\mycode\\oop\\mostenire\\MostenireTestare\\MostenireTestare\\InterfeteExemplu\\IFigura.cs",
-              "RelativeDocumentMoniker": "MostenireTestare\\InterfeteExemplu\\IFigura.cs",
-              "ToolTip": "C:\\mycode\\oop\\mostenire\\MostenireTestare\\MostenireTestare\\InterfeteExemplu\\IFigura.cs",
-              "RelativeToolTip": "MostenireTestare\\InterfeteExemplu\\IFigura.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T17:01:29.983Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Dreptunghi.cs",
-              "DocumentMoniker": "C:\\mycode\\oop\\mostenire\\MostenireTestare\\MostenireTestare\\InterfeteExemplu\\Dreptunghi.cs",
-              "RelativeDocumentMoniker": "MostenireTestare\\InterfeteExemplu\\Dreptunghi.cs",
-              "ToolTip": "C:\\mycode\\oop\\mostenire\\MostenireTestare\\MostenireTestare\\InterfeteExemplu\\Dreptunghi.cs",
-              "RelativeToolTip": "MostenireTestare\\InterfeteExemplu\\Dreptunghi.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAADgvx8AAAAAAAAAAAAAAA==",
+              "Title": "Desen.cs",
+              "DocumentMoniker": "C:\\mycode\\oop\\mostenire\\MostenireTestare 2.0\\MostenireTestare\\InterfeteExemplu\\Desen.cs",
+              "RelativeDocumentMoniker": "MostenireTestare\\InterfeteExemplu\\Desen.cs",
+              "ToolTip": "C:\\mycode\\oop\\mostenire\\MostenireTestare 2.0\\MostenireTestare\\InterfeteExemplu\\Desen.cs",
+              "RelativeToolTip": "MostenireTestare\\InterfeteExemplu\\Desen.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T16:59:16.627Z"
+              "WhenOpened": "2024-09-25T17:47:23.775Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Cerc.cs",
-              "DocumentMoniker": "C:\\mycode\\oop\\mostenire\\MostenireTestare\\MostenireTestare\\InterfeteExemplu\\Cerc.cs",
-              "RelativeDocumentMoniker": "MostenireTestare\\InterfeteExemplu\\Cerc.cs",
-              "ToolTip": "C:\\mycode\\oop\\mostenire\\MostenireTestare\\MostenireTestare\\InterfeteExemplu\\Cerc.cs",
-              "RelativeToolTip": "MostenireTestare\\InterfeteExemplu\\Cerc.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAmAAAAAAAAAA==",
+              "Title": "IFigura.cs",
+              "DocumentMoniker": "C:\\mycode\\oop\\mostenire\\MostenireTestare 2.0\\MostenireTestare\\InterfeteExemplu\\IFigura.cs",
+              "RelativeDocumentMoniker": "MostenireTestare\\InterfeteExemplu\\IFigura.cs",
+              "ToolTip": "C:\\mycode\\oop\\mostenire\\MostenireTestare 2.0\\MostenireTestare\\InterfeteExemplu\\IFigura.cs",
+              "RelativeToolTip": "MostenireTestare\\InterfeteExemplu\\IFigura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T16:59:08.938Z"
+              "WhenOpened": "2024-09-23T17:01:29.983Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Linie.cs",
-              "DocumentMoniker": "C:\\mycode\\oop\\mostenire\\MostenireTestare\\MostenireTestare\\InterfeteExemplu\\Linie.cs",
-              "RelativeDocumentMoniker": "MostenireTestare\\InterfeteExemplu\\Linie.cs",
-              "ToolTip": "C:\\mycode\\oop\\mostenire\\MostenireTestare\\MostenireTestare\\InterfeteExemplu\\Linie.cs",
-              "RelativeToolTip": "MostenireTestare\\InterfeteExemplu\\Linie.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Title": "Eticheta.cs",
+              "DocumentMoniker": "C:\\mycode\\oop\\mostenire\\MostenireTestare 2.0\\MostenireTestare\\InterfeteExemplu\\Eticheta.cs",
+              "RelativeDocumentMoniker": "MostenireTestare\\InterfeteExemplu\\Eticheta.cs",
+              "ToolTip": "C:\\mycode\\oop\\mostenire\\MostenireTestare 2.0\\MostenireTestare\\InterfeteExemplu\\Eticheta.cs",
+              "RelativeToolTip": "MostenireTestare\\InterfeteExemplu\\Eticheta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T16:59:02.002Z"
+              "WhenOpened": "2024-09-25T16:47:03.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dreptunghi.cs",
+              "DocumentMoniker": "C:\\mycode\\oop\\mostenire\\MostenireTestare 2.0\\MostenireTestare\\InterfeteExemplu\\Dreptunghi.cs",
+              "RelativeDocumentMoniker": "MostenireTestare\\InterfeteExemplu\\Dreptunghi.cs",
+              "ToolTip": "C:\\mycode\\oop\\mostenire\\MostenireTestare 2.0\\MostenireTestare\\InterfeteExemplu\\Dreptunghi.cs",
+              "RelativeToolTip": "MostenireTestare\\InterfeteExemplu\\Dreptunghi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T16:59:16.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cerc.cs",
+              "DocumentMoniker": "C:\\mycode\\oop\\mostenire\\MostenireTestare 2.0\\MostenireTestare\\InterfeteExemplu\\Cerc.cs",
+              "RelativeDocumentMoniker": "MostenireTestare\\InterfeteExemplu\\Cerc.cs",
+              "ToolTip": "C:\\mycode\\oop\\mostenire\\MostenireTestare 2.0\\MostenireTestare\\InterfeteExemplu\\Cerc.cs",
+              "RelativeToolTip": "MostenireTestare\\InterfeteExemplu\\Cerc.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T16:59:08.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Linie.cs",
+              "DocumentMoniker": "C:\\mycode\\oop\\mostenire\\MostenireTestare 2.0\\MostenireTestare\\InterfeteExemplu\\Linie.cs",
+              "RelativeDocumentMoniker": "MostenireTestare\\InterfeteExemplu\\Linie.cs",
+              "ToolTip": "C:\\mycode\\oop\\mostenire\\MostenireTestare 2.0\\MostenireTestare\\InterfeteExemplu\\Linie.cs",
+              "RelativeToolTip": "MostenireTestare\\InterfeteExemplu\\Linie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T16:59:02.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Punct.cs",
+              "DocumentMoniker": "C:\\mycode\\oop\\mostenire\\MostenireTestare 2.0\\MostenireTestare\\InterfeteExemplu\\Punct.cs",
+              "RelativeDocumentMoniker": "MostenireTestare\\InterfeteExemplu\\Punct.cs",
+              "ToolTip": "C:\\mycode\\oop\\mostenire\\MostenireTestare 2.0\\MostenireTestare\\InterfeteExemplu\\Punct.cs",
+              "RelativeToolTip": "MostenireTestare\\InterfeteExemplu\\Punct.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T16:58:51.825Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Punct.cs",
-              "DocumentMoniker": "C:\\mycode\\oop\\mostenire\\MostenireTestare\\MostenireTestare\\InterfeteExemplu\\Punct.cs",
-              "RelativeDocumentMoniker": "MostenireTestare\\InterfeteExemplu\\Punct.cs",
-              "ToolTip": "C:\\mycode\\oop\\mostenire\\MostenireTestare\\MostenireTestare\\InterfeteExemplu\\Punct.cs",
-              "RelativeToolTip": "MostenireTestare\\InterfeteExemplu\\Punct.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAxwBAAAAATAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\mycode\\oop\\mostenire\\MostenireTestare 2.0\\MostenireTestare\\Program.cs",
+              "RelativeDocumentMoniker": "MostenireTestare\\Program.cs",
+              "ToolTip": "C:\\mycode\\oop\\mostenire\\MostenireTestare 2.0\\MostenireTestare\\Program.cs",
+              "RelativeToolTip": "MostenireTestare\\Program.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAMwE8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T16:58:51.825Z",
+              "WhenOpened": "2024-09-23T17:38:21.53Z",
               "EditorCaption": ""
             }
           ]

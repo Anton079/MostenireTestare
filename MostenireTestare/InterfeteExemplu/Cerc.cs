@@ -19,6 +19,18 @@ namespace MostenireTestare.AbstarctizareExemplu
             this.raza = raza;
         }
 
+        public Punct Centru
+        {
+            get { return centru; }
+            set { centru = value; }
+        }
+
+        public int Raza
+        {
+            get { return raza; }
+            set { raza = value; }
+        }
+
         public void Afisare()
         {
             Console.WriteLine(this);
@@ -39,6 +51,12 @@ namespace MostenireTestare.AbstarctizareExemplu
         public override string ToString()
         {
             return $"{centru},{raza}";
+        }
+
+        public override bool Equals(object? obj)
+        {
+            Cerc cerc = obj as Cerc;
+            return this.centru.Equals(cerc.centru) && this.raza == cerc.raza;
         }
     }
 }

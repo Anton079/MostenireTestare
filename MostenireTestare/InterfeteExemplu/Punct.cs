@@ -56,7 +56,7 @@ namespace MostenireTestare.InterfeteExemplu
         public override bool Equals(object? obj)
         {
             Punct punct = obj as Punct;
-            return this._x==punct.X && this._y==punct.Y;
+            return this._x == punct.X && this._y == punct.Y;
 
         }
     }
